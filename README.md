@@ -1,4 +1,4 @@
-# Sho-Censys Tool
+# Query-Shodan-Censys
 
 This is a Python tool that performs IP enumeration using the Shodan and Censys APIs. It collects information about a given IP address, such as open ports, services, banners, and other relevant details.
 
